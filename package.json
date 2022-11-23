@@ -21,7 +21,7 @@
     "is-promise": "2.1.0",
     "jstz": "1.0.7",
     "keymirror": "0.1.1",
-    "moment-timezone": "0.4.1",
+    "moment-timezone": "0.5.38",
     "object-assign": "4.0.1",
     "react": "15.4.0",
     "react-native": "0.38.0",
