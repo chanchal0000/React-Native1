@@ -1,7 +1,5 @@
 # React Native Sample App
 
-At [TaskRabbit](https://www.taskrabbit.com), we are trying to understand the best way to build React Native apps. This app is a working app in which we implement new ideas or those that have worked for us so far. We'll write about it on our [tech blog](http://tech.taskrabbit.com/).
-
 The app itself is vaguely like twitter/tumblr. There are users that make posts. They follow other users. You can look at follows and their posts. The features (or styling) isn't the main point. At this time, we're mostly demonstrating architectural concepts.
 
 ![Sign up](./screenshots/sign_up.png "Sign up")
